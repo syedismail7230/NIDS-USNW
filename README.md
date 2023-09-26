@@ -1,4 +1,11 @@
 # NIDS-USNW
+Prerequisites
+Sklearn
+Pandas
+Numpy
+Matplotlib
+Pickle
+
 
 pip install numpy pandas tensorflow scikit-learn
 
